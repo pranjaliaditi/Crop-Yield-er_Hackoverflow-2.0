@@ -29,7 +29,7 @@
 3. The polynomial regression model, with a degree of 3, initially encountered several type and value errors that required extensive time and effort to resolve.
 * To solve these errors we had to extensively trace back to a point of correctness and alter the further progressions to change the outputs and produce desirable outcomes.
 
-### Despite the numerous challenges, we were able to achieve the required results with team work and team-work.
+### Despite the numerous challenges, we were able to achieve the required results with team work and dedication.
 ---
 ## Proposed Solution and Working of the Model
 ---
