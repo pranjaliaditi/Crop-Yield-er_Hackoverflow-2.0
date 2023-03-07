@@ -1,4 +1,5 @@
 # Crop Yield-er
+Made as a hackathon project for Hackoverflow 2.0 organised by AI club of IGDTUW and NSUT.
 ---
 ## Domain 1. BioTech
 ---
